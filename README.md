@@ -29,3 +29,5 @@ You can run the Jupyter Notebooks directly on [Binder](https://mybinder.org/). C
 
 Notice that Binder takes some time starting the server where the notebook will be running. Also, it might get slow when there are a lot of users accessing simultaneously. 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shan3333/MLAI-Labs/HEAD)
+
